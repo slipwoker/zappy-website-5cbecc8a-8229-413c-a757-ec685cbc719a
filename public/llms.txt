@@ -1,0 +1,100 @@
+# ליאת וולברג — Generative Engine Optimization Map
+
+> A Pilates instructor looking to establish an e-commerce presence online. The business revolves around teaching Pilates, likely offering classes, courses, or digital content for sale. The brand identity and unique style are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הצטרפי לעולם הפילאטיס עם ליאת וולברג – מדריכה מוסמכת שתוביל אותך לחיים בריאים, גמישים ומאוזנים. bodyline fitness &amp; wellness מתחיל כאן, צעד אחד בכל פעם.
+
+### שירותים
+https://example.com/services
+גלי את מגוון שיעורי הפילאטיס, הקורסים הדיגיטליים והתוכניות האישיות של ליאת וולברג. evolutions fitness &amp; wellness center שלך מתחיל בבחירת השירות המושלם עבורך.
+
+### אודות
+https://example.com/about
+ליאת וולברג היא מדריכת פילאטיס מוסמכת עם תשוקה אמיתית לבריאות הגוף והנפש. גלי את הדרך שהובילה אותה להקים עולם של nevermore fitness &amp; wellness ולהעצים נשים בכל מקום.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על שיעורי הפילאטיס או הקורסים הדיגיטליים? צרי קשר עם ליאת וולברג עוד היום ותקבלי את כל המידע שצריך כדי להתחיל את מסע gym way fitness &amp; wellness שלך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ליאת וולברג
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ליאת וולברג
+
+### Category
+https://example.com/category/:slug
+מוצרים - ליאת וולברג
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ליאת וולברג
+A Pilates instructor looking to establish an e-commerce presence online. The business revolves around teaching Pilates, likely offering classes, courses, or digital content for sale. The brand identity and unique style are yet to be defined.
+
+## Target Audience
+- אנשי מקצוע עסוקים
+- אמהות טריות
+- חובבי כושר
+
+## Industry
+Fitness & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
