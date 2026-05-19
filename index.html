@@ -257,8 +257,8 @@
     <style id="zappy-announcement-bar-styles">
     /* Announcement Bar Styles */
     .zappy-announcement-bar {
-      background-color: #000000 !important;
-      color: #ffffff !important;
+      background-color: #ff0000 !important;
+      color: #000000 !important;
       position: fixed !important;
       top: 0 !important;
       left: 0 !important;
@@ -383,6 +383,7 @@
 
 <div class="zappy-announcement-bar">
       <span class="zappy-announcement-message active">מבצע החודש 220 ש&quot;ח לשיעור (מינימום 5 שיעורים)</span>
+      <span class="zappy-announcement-message">שיעור קבוצתי ביום שלישי 20.5.2026 בשעה 17:00</span>
     </div>
 
 
@@ -1230,6 +1231,17 @@
   </a>
   
   <div data-integration="accessibility:toolbar"></div>
+<script>
+(function() {
+  var messages = document.querySelectorAll('.zappy-announcement-message');
+  if (messages.length <= 1) return;
+  var current = 0;
+  setInterval(function() {
+    messages[current].classList.remove('active');
+    current = (current + 1) % messages.length;
+    messages[current].classList.add('active');
+  }, 4000);
+})();</script>
 
     <script src="/script.js"></script>
 
