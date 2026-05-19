@@ -4,6 +4,50 @@
     <title>ליאת וולברג</title>
     <link>https://example.com</link>
     <description>Product feed for ליאת וולברג</description>
-    <lastBuildDate>Mon, 18 May 2026 17:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:39:42 GMT</lastBuildDate>
+    <item>
+      <g:id>c8a53b0d-99af-4fb2-affa-bf22ea3fa708</g:id>
+      <g:title>📋 תוכנית אישית</g:title>
+      <g:description>תוכנית אימון אישית ומותאמת במיוחד עבורך — כולל ליווי תזונתי, מעקב התקדמות ותמיכה מלאה לאורך כל הדרך. למחיר ופרטים נוספים, צרי קשר ישירות.</g:description>
+      <g:link>https://example.com/product/tvknyt-ayshyt-0nthpc</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ליאת וולברג</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>65c27ae6-3bbd-4d71-ad6b-7eb2ecf066e5</g:id>
+      <g:title>👥 שיעור קבוצתי</g:title>
+      <g:description>שיעור פילאטיס קבוצתי — 200 ש&quot;ח לאדם. אנרגיה קבוצתית מעצימה בסביבה תומכת ומעוררת השראה. קבוצות קטנות ואיכותיות לכל הרמות.</g:description>
+      <g:link>https://example.com/product/shyavr-kbvtsty-8kzg6w</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ליאת וולברג</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>f0767210-aab4-4039-9808-90543dba35c6</g:id>
+      <g:title>🎥 קורס דיגיטלי</g:title>
+      <g:description>קורס דיגיטלי מקיף לפילאטיס — גישה ללא הגבלת זמן לכל התכנים. תוכניות וידאו מקצועיות שתוכלי לעבוד בהן בקצב שלך, מכל מקום בעולם. מתאים לכל הרמות.</g:description>
+      <g:link>https://example.com/product/kvrs-dygytly-cawmbs</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>450.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ליאת וולברג</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>90072314-ce45-499b-af66-72d815b71b57</g:id>
+      <g:title>שיעור פרטי</g:title>
+      <g:description>שיעור פילאטיס פרטי עם ליאת וולברג — 250 ש&quot;ח לשעה. ליווי אישי צמוד עם תוכנית מותאמת לגוף ולמטרות שלך. כל שיעור בנוי סביב הצרכים הייחודיים שלך לתוצאות מיטביות.</g:description>
+      <g:link>https://example.com/product/shyavr-prty-0b1egz</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ליאת וולברג</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

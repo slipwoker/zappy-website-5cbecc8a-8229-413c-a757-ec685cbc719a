@@ -72,7 +72,31 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 4**
+
+### 📋 תוכנית אישית
+https://example.com/product/tvknyt-ayshyt-0nthpc
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: תוכנית אימון אישית ומותאמת במיוחד עבורך — כולל ליווי תזונתי, מעקב התקדמות ותמיכה מלאה לאורך כל הדרך. למחיר ופרטים נוספים, צרי קשר ישירות.
+
+### 👥 שיעור קבוצתי
+https://example.com/product/shyavr-kbvtsty-8kzg6w
+- Price: 200.00 ILS
+- Availability: In stock
+- Description: שיעור פילאטיס קבוצתי — 200 ש"ח לאדם. אנרגיה קבוצתית מעצימה בסביבה תומכת ומעוררת השראה. קבוצות קטנות ואיכותיות לכל הרמות.
+
+### 🎥 קורס דיגיטלי
+https://example.com/product/kvrs-dygytly-cawmbs
+- Price: 450.00 ILS
+- Availability: In stock
+- Description: קורס דיגיטלי מקיף לפילאטיס — גישה ללא הגבלת זמן לכל התכנים. תוכניות וידאו מקצועיות שתוכלי לעבוד בהן בקצב שלך, מכל מקום בעולם. מתאים לכל הרמות.
+
+### שיעור פרטי
+https://example.com/product/shyavr-prty-0b1egz
+- Price: 250.00 ILS
+- Availability: In stock
+- Description: שיעור פילאטיס פרטי עם ליאת וולברג — 250 ש"ח לשעה. ליווי אישי צמוד עם תוכנית מותאמת לגוף ולמטרות שלך. כל שיעור בנוי סביב הצרכים הייחודיים שלך לתוצאות מיטביות.
 
 ---
 
